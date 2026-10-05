@@ -1,0 +1,13 @@
+<Window x:Class="TwoDecksWPF.MainWindow"
+        x:ClassModifier="public"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Modern WPF App"
+        Width="800"
+        Height="450">
+
+    <Grid>
+        
+    </Grid>
+
+</Window>

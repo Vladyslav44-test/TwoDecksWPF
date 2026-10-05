@@ -1,0 +1,10 @@
+<Application x:Class="TwoDecksWPF.App"
+             x:ClassModifier="public"
+	     StartupUri="MainWindow.xaml"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Application.Resources>
+    </Application.Resources>
+
+</Application>
