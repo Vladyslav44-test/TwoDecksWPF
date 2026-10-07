@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CardsAndEnumsTest
+namespace TwoDecksWPF
 {
     internal class Card
     {
@@ -14,6 +14,10 @@ namespace CardsAndEnumsTest
         {
             Value = value;
             Suit = suit;
+        }
+        public override string ToString()
+        {
+            return Name;
         }
     }
 }

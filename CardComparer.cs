@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CardsListAndComparerTest
+namespace TwoDecksWPF
 {
     internal class CardComparer : IComparer<Card>
     {
