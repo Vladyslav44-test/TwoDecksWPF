@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TwoDecksWPF
 {
-    internal class Card
+    public class Card
     {
         public Values Value { get; private set; }
         public Suits Suit { get; private set; }

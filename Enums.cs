@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TwoDecksWPF
 {
-    enum Suits
+    public enum Suits
     {
         Diamonds,
         Clubs,
@@ -12,7 +12,7 @@ namespace TwoDecksWPF
         Spades
     }
 
-    enum Values : byte
+    public enum Values : byte
     {
         Ace = 1,
         Two = 2,

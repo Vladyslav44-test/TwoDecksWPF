@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TwoDecksWPF
 {
-    internal class Deck : ObservableCollection<Card>
+    public class Deck : ObservableCollection<Card>
     {
         private static Random random = new Random();
         public Deck()
